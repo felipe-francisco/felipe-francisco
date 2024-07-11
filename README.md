@@ -66,8 +66,13 @@ Sou fluente em português e possuo inglês intermediário.
 
 ## Criação de Conteúdos:
 
-No GitHub, publicarei projetos pessoais relacionados à análise de dados, ciência de dados, e Machine Learning.
+- No GitHub, publicarei projetos pessoais relacionados à análise de dados, ciência de dados, e Machine Learning.
 <br>
-No Medium publicarei artigos sobre estatística, negócios, ferramentas e materiais mais técnicos.
+
+- No Medium publicarei artigos sobre estatística, negócios, ferramentas e materiais mais técnicos.
+<br>
+
+- No LinkedIn publicarei assuntos diversos, voltados a negócios, curiosidadades, estatística, machine learning, entre outras coisas.
+
 <br>
 Fique à vontade para ver meus projetos e entrar em contato comigo. Estou a disposição para compartilhar meu conhecimento e colaborar em projetos interessantes.
